@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Problem
-To create an ordered list of Premier League Clubs that is able to be filtered and clicked into for detail.
+To create an ordered list of Premier League Clubs that is able to be filtered and clicked into for detail. See [here](https://docs.google.com/document/d/1C1rFtH5xxoaNx7ztY1VCA-HSfsUw6NKcbFMaxK2z9hE/edit?usp=sharing) for details.
 
 ## Solution
 This solution has been created with React as my Vue.js is fairly rudimentary at the moment.
@@ -19,7 +19,7 @@ This solution has been created with React as my Vue.js is fairly rudimentary at 
 
 ## Prerequisites
  - Node (>= v11.0.0)
- - NPM (>= v6.4.1)
+ - NPM (>=v6.4.1)
 
 ## Setup
 ### run `npm install`
