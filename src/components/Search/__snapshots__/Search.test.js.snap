@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders search component correctly 1`] = `
+<div
+  className="search"
+>
+  <input
+    onChange={[Function]}
+    type="search"
+  />
+  <button>
+    Cancel
+  </button>
+</div>
+`;

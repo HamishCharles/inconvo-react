@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders team list correctly 1`] = `
+<div
+  className="team-list"
+>
+  <div
+    className="team"
+    onClick={[Function]}
+  >
+    <img
+      alt="Blah logo"
+      onAbort={[Function]}
+      onError={[Function]}
+      src="blah.jpg"
+    />
+    <div
+      className="overlay"
+    >
+      <span
+        className="team-name"
+      >
+        Blah
+      </span>
+    </div>
+  </div>
+  <div
+    className="team"
+    onClick={[Function]}
+  >
+    <img
+      alt="Rovers logo"
+      onAbort={[Function]}
+      onError={[Function]}
+      src="rovers.jpg"
+    />
+    <div
+      className="overlay"
+    >
+      <span
+        className="team-name"
+      >
+        Rovers
+      </span>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,14 @@
+.team-list {
+    .team {
+      width: 150px;
+      margin: 12px;
+    }
+    img {
+      width: 150px;
+      min-height: 150px;
+    }
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+  }
